@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\SagarPersonal.InterestCount.resources
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\SagarPersonal.Properties.Resources.resources
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\SagarPersonal.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\SagarPersonal.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\SagarPersonal.Evolution.resources
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\bin\Debug\Interest count.exe.manifest
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\bin\Debug\Interest count.application
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\bin\Debug\Interest count.exe
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\bin\Debug\Interest count.pdb
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\Interest count.exe.manifest
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\Interest count.application
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\Interest count.exe
+C:\Users\admin\Desktop\SagarPersonal\SagarPersonal\obj\x86\Debug\Interest count.pdb
